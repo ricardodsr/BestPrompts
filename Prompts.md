@@ -108,3 +108,45 @@
     Rewrite the given [source language] data structure implementation in [target language] with equivalent performance characteristics: [code snippet].
     Adapt the following [source language] code snippet to [target language] while adhering to [target language’s framework or library conventions]: [code snippet].
     Translate the given [source language] method that performs [specific task or operation] to [target language]: [code snippet].
+
+# Personalized learning:
+
+    Curate a list of resources to learn [programming language or technology] based on my preferred learning style: [visual/auditory/kinesthetic].
+    Recommend a learning path to become proficient in [specific programming domain or technology] considering my time constraints and learning goals.
+    Suggest coding challenges or competitions to help me improve my skills in [programming language or technology].
+    Recommend podcasts, videos, or other multimedia resources that focus on [specific topic or concept] in [programming language or technology].
+    Identify areas of improvement in my coding skills based on the following [language] project or repository: [URL or project description].
+
+# Technical writing:
+
+    Write a tutorial on how to integrate [library or service] with [programming language or technology].
+    Create a step-by-step guide on deploying and scaling [application or service] in [cloud or platform].
+    Draft a README file for a [programming language or technology] project that includes contribution guidelines and project roadmap.
+    Write a clear and concise explanation of the [programming concept or technique] and its applications in [industry or domain].
+    Create a comparison or evaluation guide for different [tools, libraries, or frameworks] in [programming language or technology].
+
+# Requirement analysis:
+
+    Interpret the following project requirements and suggest a technology stack or tools: [requirements description].
+    Analyze the given project requirements and propose a detailed project plan with milestones and deliverables: [requirements description].
+    Evaluate the feasibility and potential risks of the following project requirements: [requirements description].
+    Suggest changes or improvements to the given project requirements to enhance [performance, maintainability, or user experience]: [requirements description].
+    Convert the following project requirements into user stories or use cases: [requirements description].
+
+# Networking and security:
+
+    Analyze the given network architecture or design for potential security vulnerabilities: [architecture or design description].
+    Write a secure [language] function or module that performs [specific task or operation] while preventing [security threat or vulnerability].
+    Suggest improvements to the following [language] code or configuration to enhance its network performance or security: [code snippet].
+    Design a secure and efficient protocol for [specific use case or application].
+    Evaluate the security of the given [language] code or configuration when interacting with [external service or API]: [code snippet].
+
+# Data visualization:
+
+    Generate a data visualization for the following dataset: [dataset description or URL].
+    Suggest improvements to the existing data visualization for better readability and understanding: [visualization description or URL].
+    Design a dashboard or data visualization that highlights [key insights or patterns] in the given dataset: [dataset description or URL].
+    Create a data visualization in [language or library] that allows users to interact with the data and explore [specific relationships or trends].
+    Develop a data visualization strategy for [web/mobile] app that presents [complex or large-scale] data in a user-friendly manner.
+
+# 
