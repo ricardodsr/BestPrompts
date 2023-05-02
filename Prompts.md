@@ -149,4 +149,10 @@
     Create a data visualization in [language or library] that allows users to interact with the data and explore [specific relationships or trends].
     Develop a data visualization strategy for [web/mobile] app that presents [complex or large-scale] data in a user-friendly manner.
 
-# 
+# DevOps and deployment:
+
+    Write a [tool or script] for automating the deployment of a [language or technology] application to [cloud or platform].
+    Suggest improvements to the existing CI/CD pipeline for a [language or technology] project: [pipeline description or URL].
+    Design a monitoring and alerting strategy for a [web/mobile] app deployed on [cloud or platform].
+    Create a Dockerfile or containerization strategy for a [language or technology] application.
+    Propose a scaling strategy for a [web/mobile] app to handle [large-scale traffic or high-throughput] on [cloud or platform].
