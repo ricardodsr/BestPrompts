@@ -1,8 +1,10 @@
 # Visualise Prompts
 
-# OPEN  -> Prompts.md 
+#################################
+#      OPEN  -> Prompts.md      #
+#################################
 
-#################################2
+
 # Generate code:
 # Code completion:
 # Bug detection:
